@@ -4,4 +4,67 @@ body {
     padding: 20px;
 }
 
+.rosso {
+    color: red;
+}
+
+.dimensione {
+    font-size: 20px;
+}
+
+.blue {
+    color: blue;
+    font-weight:bold;
+}
+
+.corsivo {
+    font-style: oblique;
+    color: orange;
+
+}
+
+.bottone1 {
+    background-color: green;
+    color: white;
+    border: none;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+.bottone2 {
+    background-color: red;
+    color: white;
+    border: 2px solid black;
+    padding-top: 10px ;
+    padding-left: 30px;
+}
+
+.sfondo{
+    background-color: pink;
+    height: 30vh;
+}
+
+.sfondo2{
+    background-color: azure;
+    height: 30vh;
+    width: 50%;
+    
+}
+
+.n1 {
+    cursor: pointer;
+    background-color: red;
+}
+
+.n2 {
+    color: blue;
+    cursor: pointer;
+}
+
+.n3 {
+    cursor: pointer;
+    background-color: aqua;
+    color: orange;
+}
+
 /* Inserisci qui di seguito il css necessario per completare gli esercizi */
